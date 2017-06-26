@@ -1,8 +1,7 @@
 /*
-	vinicius yamamoto 
+	vinicius yamamoto
 	Francisco Pegorel G dias
  */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
