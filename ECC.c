@@ -1,6 +1,6 @@
 /*
-	vinicius yamamoto 			ra:490105
-	Francisco Pegorel G dias	ra:587702
+	vinicius yamamoto 
+	Francisco Pegorel G dias
  */
 
 #include <stdio.h>
